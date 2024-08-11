@@ -15,4 +15,8 @@ OpenIn
 - https://mail.google.com/mail/u/0/#search/label%3Aunread
 chrome:https://mail.google.com/mail/u/0/#search/label%3Aunread
 
-(shortcut [Start the workday])
+* tell application "Moom" to arrange windows according to snapshot "Weekly Review" ~10
+
+(sc Start the workday)
+
+!!Chrome
