@@ -1,0 +1,11 @@
+---
+title: 👥Derek & Nelson's Weekly Call
+---
+@@
+%Safari
+- {@1}
+%Drafts
+
+(audio input Studio Display Microphone)
+
+* tell application "Moom" to arrange windows according to snapshot "Derek & Nelson" ~5
