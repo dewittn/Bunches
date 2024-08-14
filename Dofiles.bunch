@@ -1,5 +1,10 @@
+---
+title: ·Files
+path: ~/dotfiles/
+---
+
 @@
 Nova
-- ~/dofiles/
+- ${path}
 Tower
-- ~/dofiles/
+- ${path}
