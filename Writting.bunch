@@ -1,0 +1,14 @@
+----
+title: ⌨️Writing
+---
+
+%Drafts^
+Music
+
+drafts://x-callback-url/workspace?name=Content%20Pipeline
+
+* tell application "Moom" to arrange windows according to snapshot "Writing" ~5
+
+(sc Start the workday)
+
+(audio output volume 60)
