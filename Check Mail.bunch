@@ -4,4 +4,4 @@ title: ✉️Check E-Mail
 
 ?[Mail, Fastmail] "Which Application?"
 
-* tell application "Moom" to arrange windows according to snapshot "Check Mail" ~10
+* tell application "Moom" to arrange windows according to snapshot "Check Mail" ~15
