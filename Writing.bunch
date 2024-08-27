@@ -3,6 +3,7 @@ title: ⌨️Writing
 ---
 @@
 Ulysses
+HazeOver
 %Music
 %Drafts^ ~10
 
@@ -11,8 +12,8 @@ drafts://x-callback-url/workspace?name=Content%20Pipeline
 * tell application "Moom" to arrange windows according to snapshot "Writing" ~5
 * tell application "Moom" to arrange windows according to snapshot "Music" ~10
 
-//(sc Start the workday)
-
+(hide desktop)
+(sc Start the workday)
 (audio output volume 60)
 
 !!<<#On Exit
@@ -20,3 +21,4 @@ drafts://x-callback-url/workspace?name=Content%20Pipeline
 ___
 ---[On Exit]
 drafts://x-callback-url/workspace?name=Default
+(show desktop)
