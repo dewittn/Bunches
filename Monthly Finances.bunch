@@ -1,0 +1,9 @@
+---
+title: 💸Monthly Finances
+---
+
+Numbers
+- ~/Library/Mobile Documents/com~apple~Numbers/Documents/Keeping Score/Burn Rate.numbers
+Copilot
+
+* tell application "Moom" to arrange windows according to snapshot "Monthly Finances" ~10
