@@ -1,0 +1,9 @@
+---
+title: 📝Edit Bunches
+path: ~/Documents/Bunches/
+---
+
+nova
+- ${path}
+Tower
+- ${path}
