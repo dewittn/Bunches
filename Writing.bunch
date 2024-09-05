@@ -10,6 +10,7 @@ HazeOver ~30
 
 drafts://x-callback-url/workspace?name=Content%20Pipeline
 !!drafts://x-callback-url/workspace?name=Default
+things:///show?id=anytime&filter=writing
 
 * tell application "Moom" to arrange windows according to snapshot "Writing" ~5
 * tell application "Moom" to arrange windows according to snapshot "Music" ~10
