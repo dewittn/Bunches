@@ -11,8 +11,7 @@ Fastmail
 Nova
 - /Volumes/Macintosh HD/Users/dewittn/Nextcloud/Web Hosting/Server Reports/
 
-OpenIn
-- https://mail.google.com/mail/u/0/#search/label%3Aunread
+https://mail.google.com/mail/u/0/#search/label%3Aunread
 chrome:https://mail.google.com/mail/u/0/#search/label%3Aunread
 
 * tell application "Moom" to arrange windows according to snapshot "Weekly Review" ~10
