@@ -3,7 +3,7 @@ title: 📆Weekly Review
 menu order: 1
 ---
 @@
-%Things
+%Things3
 %Calendar
 DEVONthink 3
 Airtable
@@ -18,4 +18,9 @@ chrome:https://mail.google.com/mail/u/0/#search/label%3Aunread
 
 (sc Start the workday)
 
-!!Chrome
+!!<<#On Exit
+
+___
+#[On Exit]
+!Chrome
+* tell application "Moom" to arrange windows according to snapshot "Organize Safari"
