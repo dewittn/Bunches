@@ -10,3 +10,10 @@ close after: 1.5h
 (audio input Studio Display Microphone)
 
 * tell application "Moom" to arrange windows according to snapshot "Derek & Nelson" ~5
+
+!!<<#On Exit
+
+___
+#[On Exit]
+
+* tell application "Moom" to arrange windows according to snapshot "Organize Safri" ~5

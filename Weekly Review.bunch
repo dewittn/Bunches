@@ -16,11 +16,11 @@ chrome:https://mail.google.com/mail/u/0/#search/label%3Aunread
 
 * tell application "Moom" to arrange windows according to snapshot "Weekly Review" ~10
 
-(sc Start the workday)
+(sc Start the workday) ~20
 
 !!<<#On Exit
 
 ___
 #[On Exit]
-!Chrome
+!Google Chrome
 * tell application "Moom" to arrange windows according to snapshot "Organize Safari"
