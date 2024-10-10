@@ -1,0 +1,30 @@
+---
+title: 👨🏽‍🏫Presentations
+toggles: true
+---
+drafts://x-callback-url/create
+
+@@
+!Mail
+!Fastmail
+!Music
+!Calendar
+!Things3
+Keynote
+
+(dnd on)
+(hide dock)
+(hide desktop)
+(audio output volume 50)
+(wallpaper ~/Pictures/Wallpapers/inbar.jpeg|~/Pictures/Wallpapers/inbar.jpeg)
+
+!!<<#On Exit
+___
+#[On Exit]
+(dnd off)
+(show dock)
+(show desktop)
+
+Music
+Calendar
+Things3
