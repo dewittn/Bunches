@@ -1,6 +1,8 @@
 ---
 title: 📝Edit Bunches
 path: ~/Documents/Bunches/
+menu order: 8
+menu divider: after
 ---
 
 nova
