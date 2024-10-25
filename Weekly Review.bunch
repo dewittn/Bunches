@@ -22,5 +22,6 @@ chrome:https://mail.google.com/mail/u/0/#search/label%3Aunread
 
 ___
 #[On Exit]
-!Google Chrome
+
 * tell application "Moom" to arrange windows according to snapshot "Organize Safari"
+!Google Chrome

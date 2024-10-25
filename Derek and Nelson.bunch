@@ -1,8 +1,10 @@
 ---
 title: 👥Derek & Nelson's Weekly Call
-close after: 1.5h
 menu order: 6
 menu divider: after
+close after: 1.5h
+open on: Mon 9:55am
+schedule if: 2C55E869-F526-591E-8F9F-F961C1C9CF29
 ---
 @@
 %Safari
