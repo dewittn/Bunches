@@ -1,6 +1,7 @@
 ---
 title: 📆Weekly Review
 menu order: 2
+quit browsers: true
 ---
 @@
 %Things3
@@ -24,4 +25,3 @@ ___
 #[On Exit]
 
 * tell application "Moom" to arrange windows according to snapshot "Organize Safari"
-!Google Chrome
