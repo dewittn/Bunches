@@ -4,14 +4,12 @@ menu order: 6
 menu divider: after
 close after: 1.5h
 open on: M 9:55am
-schedule if: 2C55E869-F526-591E-8F9F-F961C1C9CF29
+schedule if: D9FACA9B-6F55-56C0-9F97-28CA44036BF7
 ---
 @@
+Nextcloud Talk
 %Drafts
 * tell application "Moom" to arrange windows according to snapshot "Derek & Nelson"
-
-%Safari ~5
-- {@1}
 
 (audio input Studio Display Microphone)
 
